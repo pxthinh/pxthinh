@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Xuan Thinh</h1>
 <h3 align="center">A passionate Fullstack developer from VietNam</h3>
 
+<div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxthinh&label=Profile%20views&color=0e75b6&style=flat" alt="pxthinh" /> </p>
+</div>
 
 <div align="center"> 
    <h2> 💻 Tech Stack </h2>
